@@ -346,5 +346,5 @@ The `texture` key takes the texture shortname of an image, defined in `item_text
 `hide_armor` allows the entity to wear armor, but it will not be rendered.
 
 ### Notes and exceptions
-Changing the player.json in a resource pack will break market place skins unless you put the following property in the descrition for player.entity.json file.
+Changing the player.json in a resource pack will break marketplace skins unless you put the following property in the descrition for player.entity.json file.
 ```"min_engine_version": "1.8.0"```
